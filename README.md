@@ -19,11 +19,9 @@ Here are some ideas to get you started:
   <img height="350" src="https://i.ibb.co.com/twn5MJ1K/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif" />
 </div>
 
----
 
 <h2 align="center">👋 My name is Rakib Hossain. I'm a Junior Frontend Developer.</h2>
 
----
 
 <h2 align="left">📌 About Me</h2>
 
@@ -35,7 +33,6 @@ I enjoy the creative challenge of turning logical solutions into functional code
 When away from the screen, you'll find me recharging through football matches and weekend travels.  
 </p>
 
----
 
 <h2 align="left">🚀 What I'm Doing</h2>
 
@@ -45,7 +42,6 @@ When away from the screen, you'll find me recharging through football matches an
 - 🎯 Enhancing my **problem-solving skills** through coding challenges.  
 - 🌍 Passionate about **building scalable web applications**.  
 
----
 
 <h2 align="left">💻 I Code With</h2>
 
@@ -64,7 +60,6 @@ When away from the screen, you'll find me recharging through football matches an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"  />
 </div>
 
----
 
 <h2 align="left">🌐 Connect With Me</h2>
 
@@ -83,9 +78,9 @@ When away from the screen, you'll find me recharging through football matches an
   </a>
 </div>
 
----
-
 <h2 align="left">📊 GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib010&show_icons=true&locale=en&layout=compact" alt="Rakib010" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rakib010&show_icons=true&locale=en" alt="Rakib010" />
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib010&" alt="Rakib010"/></p>
 
