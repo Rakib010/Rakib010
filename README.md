@@ -88,4 +88,4 @@ When away from the screen, you'll find me recharging through football matches an
 <h2 align="left">📊 GitHub Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib010&show_icons=true&locale=en&layout=compact" alt="Rakib010" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rakib010&show_icons=true&locale=en" alt="Rakib010" />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib010&" alt="Rakib010"/></p>
+
