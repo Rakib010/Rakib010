@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hey, My name is Rakib Hossain. I'm a Junior Frontend Developer.</h2>
+<div align="center">
+  <img height="350" src="https://i.ibb.co.com/twn5MJ1K/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif"  />
+</div>
 
 ###
 
-<div align="center">
-  <img height="350" src="YOUR_BANNER_IMAGE_URL" />
-</div>
+<h2 align="left">My name is  Rakib Hossain. I'm a junior fronted developer.</h2>
 
 ###
 
@@ -28,77 +28,66 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">
-I'm Rakib Hossain, a Computer Science undergraduate at the University of Scholars. 
-I'm building strong foundations in programming while pursuing my passion for web development. 
-Currently immersed in learning modern web technologies and refining my English communication skills, 
-I enjoy the creative challenge of turning logical solutions into functional code. 
-When away from the screen, you'll find me recharging through football matches and weekend travels.
-</p>
+<p align="left">I'm Rakib Hossain, a Computer Science undergraduate at the University of Scholars. where I'm building strong foundations in programming while pursuing my passion for web development. Currently immersed in learning modern web technologies and refining my English communication skills, I enjoy the creative challenge of turning logical solutions into functional code. When away from the screen, you'll find me recharging through football matches and weekend travels.</p>
 
 ###
 
-## 🚀 Current Activities
-- I’m exploring **React** and improving my backend skills.
-- Working on a **restaurant web app**.
-- Learning **Next.js**.
-- Improving my **problem-solving skills** through coding challenges.
-- Passionate about **building scalable web applications**.
+<p align="left">🚀 I’m exploring React and improving my backend skills.<br>💻 I’m working on a restaurant web app.<br>📚 Learning Next JS.<br>🎯 Improving my problem-solving skills through coding challenges.<br>🌍 Passionate about building scalable web applications.</p>
 
 ###
 
 <h2 align="left">I code with</h2>
 
-### Frontend
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo"  />
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3 logo"  />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo"  />
+###
 
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo"  />
-
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo"  />
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
 ###
 
 <h2 align="left">Connect With Me</h2>
 
+###
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/rakib-hossain-b1533b26a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
+  <a href="www.linkedin.com/in/rakib-hossain-b1533b26a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo"  />
-  </a>
-  <a href="https://discord.com/YOUR_DISCORD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo"  />
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
 
 ###
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rakib-hossain&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-hossain&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-hossain&layout=compact&theme=radical" />
-</p>
-
+###
 
 <div align="left">
   <a href="www.linkedin.com/in/rakib-hossain-b1533b26a" target="_blank">
