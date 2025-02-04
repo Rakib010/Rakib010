@@ -97,5 +97,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockyhaque&show_icons=true&locale=en&layout=compact" alt="rockyhaque" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockyhaque&show_icons=true&locale=en" alt="rockyhaque" /></p>
 
 ###
