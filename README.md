@@ -14,93 +14,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Banner Image -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+<!-- Banner -->
+<div align="center">
+  <img height="200" src="https://i.ibb.co/twn5MJ1K/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif" alt="coding-banner" />
+</div>
+
+<!-- Name & Title -->
+<h1 align="center">Hi 👋, I'm Rakib Hossain</h1>
+<h3 align="center">Junior Frontend Developer | CS Undergrad @ University of Scholars</h3>
+
+<!-- About Me -->
+## 🧑💻 About Me
+<p align="left">
+  A passionate frontend developer building strong foundations in web development. Currently:
+  - 🌱 Mastering React & Next.js fundamentals
+  - 🚀 Developing a restaurant management web app
+  - ⚡ Solving coding challenges to improve problem-solving skills
+  - 🌍 Planning to integrate travel experiences into tech projects
+  - ⚽ Balancing code with football matches and weekend adventures
 </p>
 
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
-<h3 align="center">YOUR_DESIGNATION | Passionate about Web Development 🚀</h3>
+<!-- Current Activities -->
+## 🚧 Current Activities
+- 🔭 **Project:** Building restaurant web app with React + Firebase
+- 🌱 **Learning:** Next.js 14 App Router and TypeScript
+- 👨💻 **Practicing:** LeetCode problems daily (50+ solved)
+- 🎯 **Goal:** Master full-stack development fundamentals
+- 📚 **Studying:** English for technical documentation
 
----
+<!-- Skills -->
+## 🛠️ Tech Stack
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss)
 
-### 💡 About Me
-- 🔥 Passionate about creating user-friendly web experiences.
-- 💻 Exploring new technologies and improving coding skills.
-- 🚀 Enthusiastic about JavaScript, React, and backend development.
-- 🌱 Currently learning Next.js & TypeScript.
+### Backend/Tools:
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
 
----
+<!-- Social Links -->
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rakib-hossain-b1533b26a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
 
-### 🚀 Current Activities
-- 🌍 Working on an **online group study web app**.
-- 📚 Improving my **problem-solving skills**.
-- 🏋️‍♂️ Focusing on **self-improvement and discipline**.
-- 💡 Building projects using **React, Tailwind CSS, and Node.js**.
-
----
-
-### 🛠 Skills  
-
-#### 🎨 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-#### ⚙️ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-#### 🛢️ Database  
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-#### 🛠️ Tools & DevOps  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 🌐 Connect with Me  
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-🚀 **Let's Build Something Awesome Together!**  
+<!-- GitHub Stats -->
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="languages" height="165">
+  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=dark" alt="streak" height="165">
+</div>
