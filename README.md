@@ -93,12 +93,10 @@ When away from the screen, you'll find me recharging through football matches an
     </tr>
   </table>
 </div>
-
-<h3 align="center">🔥 GitHub Streak Stats</h3>
-
+<br><br> 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Rakib010" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Rakib010" alt="GitHub Streak Stats" />
   </a>
 </p>
 
