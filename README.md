@@ -78,9 +78,28 @@ When away from the screen, you'll find me recharging through football matches an
   </a>
 </div>
 
-<h2 align="left">📊 GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib010&show_icons=true&locale=en&layout=compact" alt="Rakib010" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Rakib010&show_icons=true&locale=en" alt="Rakib010" />
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rakib010" alt="GitHub Streak" /></a></p>
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib010&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+      <td align="right">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rakib010&show_icons=true&locale=en" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h3 align="center">🔥 GitHub Streak Stats</h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Rakib010" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
 
