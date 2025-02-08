@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </div>
 
 
-<h2 align="center">👋 My name is Rakib Hossain. I'm a Frontend Developer.</h2>
+<!-- <h2 align="center">👋 My name is Rakib Hossain. I'm a Frontend Developer.</h2> -->
+ <h2 align="center">👋 Hi there 👋</h2> 
 
 
 <h2 align="left">📌 About Me</h2>
@@ -75,13 +76,13 @@ When away from the screen, you'll find me recharging through football matches an
 </div>
 
 
-<h2 align="left">📊 GitHub Stats</h2>
+<!-- <h2 align="left">📊 GitHub Stats</h2> 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Rakib010" alt="GitHub Streak Stats" />
   </a>
-</p>
+</p> -->
 <br><br> 
 <div align="center">
   <table>
@@ -89,9 +90,9 @@ When away from the screen, you'll find me recharging through football matches an
       <td align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib010&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
       </td>
-      <td align="right">
+     <!-- <td align="right">
         <img src="https://github-readme-stats.vercel.app/api?username=Rakib010&show_icons=true&locale=en" alt="GitHub Stats" />
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
