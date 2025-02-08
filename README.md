@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 <!--
 **Rakib010/Rakib010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h2 align="center">👋 My name is Rakib Hossain. I'm a Junior Frontend Developer.</h2>
+<h2 align="center">👋 My name is Rakib Hossain. I'm a Frontend Developer.</h2>
 
 
 <h2 align="left">📌 About Me</h2>
@@ -28,17 +28,13 @@ Here are some ideas to get you started:
 <p align="left">
 I'm Rakib Hossain, a Computer Science undergraduate at the University of Scholars.  
 Building strong foundations in programming while pursuing my passion for web development.  
-Currently immersed in learning modern web technologies and refining my English communication skills.  
-I enjoy the creative challenge of turning logical solutions into functional code.  
 When away from the screen, you'll find me recharging through football matches and weekend travels.  
 </p>
 
 
 <h2 align="left">🚀 What I'm Doing</h2>
 
-- 🔥 Exploring **React** and improving my backend skills.  
-- 🍽️ Building a **restaurant web app**.  
-- 📚 Learning **Next.js**.  
+- 🌱 I’m currently learning ...**Next.js**
 - 🎯 Enhancing my **problem-solving skills** through coding challenges.  
 - 🌍 Passionate about **building scalable web applications**.  
 
