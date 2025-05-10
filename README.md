@@ -35,7 +35,7 @@ When I’m not coding, you’ll find me recharging through football matches or e
 
 <h2 align="left">🚀 What I'm Doing</h2>
 
-- 🌱 I’m currently learning ...**Next.js**
+- 🌱 I’m currently learning ...**Typescript, Next.js**
 - 🎯 Enhancing my **problem-solving skills** through coding challenges.  
 - 🌍 Passionate about **building scalable web applications**.  
 
