@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <h2 align="left">📌 About Me</h2>
 
 <p align="left">
-Rakib Hossain
-Computer Science Undergraduate | Aspiring Web Developer
+<p>Rakib Hossain</p>
+<p>Computer Science Undergraduate | Aspiring Web Developer</p>
 I'm a Computer Science undergraduate passionate about building strong programming foundations and crafting engaging web experiences. With a keen interest in both front-end and back-end development, I’m constantly learning and applying new technologies to bring ideas to life.
 When I’m not coding, you’ll find me recharging through football matches or exploring new places on weekend getaways. I believe a balanced life fuels creativity and productivity.
 </p>
