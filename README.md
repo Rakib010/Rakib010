@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 <h2 align="left">📌 About Me</h2>
 
 <p align="left">
-Rakib Hossain <br>
-I'm a Computer Science undergraduate passionate about building strong programming foundations and crafting engaging web experiences. With a keen interest in both front-end and back-end development, I’m constantly learning and applying new technologies to bring ideas to life.<br>
-When I’m not coding, you’ll find me recharging through football matches or exploring new places on weekend getaways. I believe a balanced life fuels creativity and productivity.
+  Hey, I'm Rakib Hossain — a CSE undergraduate learning new things and constantly trying to improve. I enjoy traveling and watching football in my free time.
 </p>
 
 
