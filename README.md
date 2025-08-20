@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <h2 align="left">📌 About Me</h2>
 
 <p align="left">
-  Hey, I'm Rakib Hossain — a CSE undergraduate learning new things and constantly trying to improve. I enjoy traveling and watching football in my free time.
+ Hey, I'm Rakib Hossain — a CSE undergraduate. I’m focusing on coding deeply, learning how to read, write, and solve problems while also exploring web development. 
+ I think about many things, but right now my focus is on coding. In free time, I love traveling and playing football.
 </p>
 
 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 - 🌍 Passionate about **building scalable web applications**.  
 
 
-<h2 align="left">💻 I Code With</h2>
+<!-- <h2 align="left">💻 I Code With</h2>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5"  />
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
   <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"  />
   </a>
-</div>
+</div> -->
 
 
 <!-- <h2 align="left">📊 GitHub Stats</h2> 
