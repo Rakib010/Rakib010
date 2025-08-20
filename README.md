@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img height="350" src="https://i.ibb.co.com/twn5MJ1K/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif" />
-</div>
+</div> -->
 
 
 <!-- <h2 align="center">👋 My name is Rakib Hossain. I'm a Frontend Developer.</h2> -->
