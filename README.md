@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...**Typescript, Next.js**
 - 🎯 Enhancing my **problem-solving skills** through coding challenges.  
-- 🌍 Passionate about **building scalable web applications**.  
+- 🌍 exploring **web development**.  
 
 
 <!-- <h2 align="left">💻 I Code With</h2>
