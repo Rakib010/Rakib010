@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div> -->
 
 
-<!-- <h2 align="center">👋 My name is Rakib Hossain. I'm a Frontend Developer.</h2> -->
+<!-- <h2 align="center">👋 My name is Rakib Hossain. I'm a Frontend Developer.</h2> 
  <h2 align="center">👋 Hi there 👋</h2> 
 
 
@@ -82,19 +82,19 @@ Here are some ideas to get you started:
     <img src="https://streak-stats.demolab.com/?user=Rakib010" alt="GitHub Streak Stats" />
   </a>
 </p> -->
-<br><br> 
+<!-- <br><br> 
 <div align="center">
   <table>
     <tr>
       <td align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib010&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      </td>
+      </td> 
      <!-- <td align="right">
         <img src="https://github-readme-stats.vercel.app/api?username=Rakib010&show_icons=true&locale=en" alt="GitHub Stats" />
-      </td> -->
+      </td>
     </tr>
   </table>
-</div>
+</div>  -->
 
 
 
