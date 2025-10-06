@@ -66,6 +66,6 @@ In my free time, I love **traveling**, **playing football**, and continuously im
 </div> 
 
 <!-- Optional cool GIF -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.ibb.co.com/twn5MJ1K/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif" height="250" alt="Coding GIF" />
-</div> 
+</div>  -->
