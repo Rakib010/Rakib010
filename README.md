@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rakib Hossain</h1>
-<h3 align="center">🚀 Frontend Developer | Passionate CSE Undergraduate | Lifelong Learner</h3>
+<h3 align="center"> Web Developer | CSE Undergraduate | Learner</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 Hey, I'm **Rakib Hossain** — a CSE undergraduate passionate about **building web applications** and **solving real-world problems** through clean and efficient code.
 
 I’m currently focusing on:
-- 🌱 Deepening my knowledge in **TypeScript** & **Next.js**
+- 🌱 Deepening my knowledge in **javaScript**, **TypeScript** & **Next.js**
 - 💡 Strengthening my **problem-solving** and **algorithmic thinking**
 - 🧠 Exploring modern **frontend ecosystems**
 
@@ -19,27 +19,33 @@ In my free time, I love **traveling**, **playing football**, and continuously im
 ### ⚙️ Tech Stack
 
 <div align="left">
-  
+
   <!-- Languages -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" style="margin-right:10px;" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" style="margin-right:10px;" alt="C++" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" style="margin-right:10px;" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" style="margin-right:10px;" alt="TypeScript" />
 
   <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin-right:10px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="margin-right:10px; filter: invert(1);" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" style="margin-right:10px;" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="margin-right:10px;" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="margin-right:10px; filter: invert(1);" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" style="margin-right:10px;" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" style="margin-right:10px;" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="40" style="margin-right:10px;" alt="Mongoose" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" style="margin-right:10px;" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" style="margin-right:10px;" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" style="margin-right:10px;" alt="Prisma" />
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin-right:10px;" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right:10px;" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" style="margin-right:10px;" alt="VS Code" />
+
 </div>
+
 
 ---
 
@@ -71,7 +77,6 @@ In my free time, I love **traveling**, **playing football**, and continuously im
 
 ---
 
-### ⚡ Fun Fact
 > “I believe small consistent progress beats perfection — one line of code at a time.”
 
 ---
