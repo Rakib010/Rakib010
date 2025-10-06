@@ -50,22 +50,6 @@ In my free time, I love **traveling**, **playing football**, and continuously im
 
 ---
 
-### 💬 Let's Connect!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rakib-hossain-b1533b26a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
-  </a>
-  <a href="https://discord.com/YOUR_DISCORD" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-  </a>
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -77,11 +61,11 @@ In my free time, I love **traveling**, **playing football**, and continuously im
 </p>
 
 ---
-
+<div align="center">
  “I believe small consistent progress beats perfection — one line of code at a time.”
-
+</div> 
 
 <!-- Optional cool GIF -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://i.ibb.co.com/twn5MJ1K/1-yw0-Tnhe-AGN-LPne-Da-Tlaxw.gif" height="250" alt="Coding GIF" />
-</div> -->
+</div> 
