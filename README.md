@@ -53,10 +53,6 @@ In my free time, I love **traveling**, **playing football**, and continuously im
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakib010&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib010&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -64,6 +60,10 @@ In my free time, I love **traveling**, **playing football**, and continuously im
 <div align="center">
  “I believe small consistent progress beats perfection — one line of code at a time.”
 </div> 
+
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rakib010&theme=tokyonight" alt="GitHub Streak Stats" />
+</p> -->
 
 <!-- Optional cool GIF -->
 <!-- <div align="center">
