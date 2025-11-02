@@ -2,17 +2,12 @@
 <h3 align="center"> Web Developer | CSE Undergraduate | Learner</h3>
 
 ---
-
-### 🧑‍💻 About Me
-
-Hey, I'm **Rakib Hossain** — a CSE undergraduate passionate about **building web applications** and **solving real-world problems** through clean and efficient code.
-
 I’m currently focusing on:
 - 🌱 Deepening my knowledge in **javaScript**, **TypeScript** & **Next.js**
 - 💡 Strengthening my **problem-solving** and **algorithmic thinking**
 - 🧠 Exploring modern **frontend ecosystems**
 
-In my free time, I love **traveling**, **playing football**, and continuously improving myself as a developer and thinker.
+In my free time, I love **traveling**, **playing football**.
 
 ---
 
