@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rakib Hossain</h1>
-<h3 align="center"> CSE | Developer| Learner</h3>
+<h3 align="center"> CSE | Developer | Learner</h3>
 
 ---
 I’m currently focusing on:
