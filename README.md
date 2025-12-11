@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Rakib Hossain</h1>
-<h3 align="center"> Web Developer | CSE Undergraduate | Learner</h3>
+<h3 align="center"> CSE | Developer| Learner</h3>
 
 ---
 I’m currently focusing on:
-- 🌱 Deepening my knowledge in **javaScript**, **TypeScript** & **Next.js**
+- 🌱 Deepening my knowledge in **javaScript**, **TypeScript**, **React** & **Next.js**
 - 💡 Strengthening my **problem-solving** and **algorithmic thinking**
 - 🧠 Exploring modern **frontend ecosystems**
 
