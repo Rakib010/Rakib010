@@ -1,4 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rakib Hossain</h1>
+
+<!--
 <h3 align="center"> CSE | Developer | Learner</h3>
 
 ---
@@ -15,13 +17,13 @@ In my free time, I love **traveling**, **playing football**.
 
 <div align="left">
 
-  <!-- Languages -->
+  <!-- Languages
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="35" style="margin-right:8px;" alt="C" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="35" style="margin-right:8px;" alt="C++" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" style="margin-right:8px;" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" style="margin-right:8px;" alt="TypeScript" />
 
-  <!-- Frameworks & Libraries -->
+  <!-- Frameworks & Libraries 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" style="margin-right:8px;" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" style="margin-right:8px; filter: invert(1);" alt="Next.js" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" style="margin-right:8px;" alt="Tailwind CSS" />
@@ -34,7 +36,7 @@ In my free time, I love **traveling**, **playing football**.
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" style="margin-right:8px;" alt="PostgreSQL" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="35" style="margin-right:8px; filter: invert(0.9);" alt="Prisma" />
 
-  <!-- Tools -->
+  <!-- Tools 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" style="margin-right:8px;" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" style="margin-right:8px;" alt="GitHub" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" style="margin-right:8px;" alt="Postman" />
@@ -50,6 +52,7 @@ In my free time, I love **traveling**, **playing football**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib010&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+-->
 
 ---
 <div align="center">
