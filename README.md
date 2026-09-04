@@ -52,9 +52,9 @@ In my free time, I love **traveling**, **playing football**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib010&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
--->
 
----
+
+--- 
 <div align="center">
  “I believe small consistent progress beats perfection — one line of code at a time.”
 </div> 
